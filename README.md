@@ -39,7 +39,7 @@
 * 8c. You find that you no longer need the view `top_five_genres`. Write a query to delete it.
 
 -----
-### Appendix: List of Tables in the Sakila DB
+#### Appendix: List of Tables in the Sakila DB
 
 * A schema is also available as `sakila_schema.svg`. Open it with a browser to view.
 
